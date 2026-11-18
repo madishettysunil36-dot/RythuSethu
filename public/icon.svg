@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#14532D" />
+  <rect x="4" y="4" width="56" height="56" rx="11" fill="#FEFCE8" fill-opacity="0.08" stroke="#F59E0B" stroke-width="1.5" />
+  <!-- Kakatiya Thoranam Crown & Arch -->
+  <path d="M32 7L35.5 12H28.5L32 7Z" fill="#F59E0B" />
+  <rect x="12" y="13.5" width="40" height="4" rx="1.5" fill="#D97706" />
+  <rect x="10" y="17.5" width="44" height="3" rx="1" fill="#F59E0B" />
+  <!-- Pillars -->
+  <rect x="14.5" y="20.5" width="5" height="29" rx="1" fill="#D97706" />
+  <rect x="12.5" y="49.5" width="9" height="4" rx="1" fill="#B45309" />
+  <rect x="44.5" y="20.5" width="5" height="29" rx="1" fill="#D97706" />
+  <rect x="42.5" y="49.5" width="9" height="4" rx="1" fill="#B45309" />
+  <rect x="10" y="53.5" width="44" height="3.5" rx="1.5" fill="#92400E" />
+  <!-- Inner Arch -->
+  <path d="M19.5 27.5C19.5 22.5 25 19.5 32 19.5C39 19.5 44.5 22.5 44.5 27.5" stroke="#FBBF24" stroke-width="2.2" stroke-linecap="round" />
+  <!-- Harvest Sun & Leaf Crest -->
+  <circle cx="39" cy="27.5" r="3.4" fill="#F59E0B" />
+  <path d="M23 48.5C23 37 30 29 41.5 27.5C40 39 33 47 23 48.5Z" fill="#DCFCE7" />
+  <path d="M23.5 48L36.5 34" stroke="#14532D" stroke-width="2.2" stroke-linecap="round" />
+</svg>

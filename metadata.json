@@ -1,0 +1,6 @@
+{
+  "name": "RythuSethu — Telangana Agri-Intelligence Suite",
+  "description": "Offline-capable AI crop disease diagnosis with Telugu/Hindi/English voice & Gemini chat advisory, Telangana mandi & soil lab maps, SmartFasal soil NPK & weather scheduler, and AgriLink P2P equipment & F2B marketplace.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
